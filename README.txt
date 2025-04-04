@@ -82,14 +82,6 @@ Features:
 
 ---
 
-## Author
-
-**Luca Demicheli Rubio**  
-Email: [lucademichelirubio.portfolio@gmail.com](mailto:lucademichelirubio.portfolio@gmail.com)  
-Portfolio: [https://luca-demicheli-rubio.com](https://luca-demicheli-rubio.com)
-
----
-
 ## License
 
 MIT
